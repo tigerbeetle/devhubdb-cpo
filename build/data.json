@@ -1,0 +1,1 @@
+{"timestamp":1779200315,"metrics":[{"name":"zig build","value":256,"unit":"ms"}],"attributes":{"runtype":"build","git_repo":"https://github.com/tigerbeetle/tigerbeetle","branch":"main","git_commit":"b771d8b57c22f630e9ca2dd81059bbab7ec99e94"}}
