@@ -1,0 +1,1 @@
+{"timestamp":1779283487,"metrics":[{"name":"long TPS","unit":"count","value":770836},{"name":"long batch p100","unit":"ms","value":73}],"attributes":{"git_repo":"https://github.com/tigerbeetle/tigerbeetle","branch":"main","git_commit":"5986c9f3ad5dedb7a4b60ac0d41bb4a348d76c70"}}
